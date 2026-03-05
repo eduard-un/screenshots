@@ -1,0 +1,24 @@
+┌─────────────┬──────────────────────┐
+│ Tests       │ 11                   │
+│ ├ Passed    │ 10 (90.9%)           │
+│ ├ Flaky     │ 0  (0.0%)            │
+│ ├ Skipped   │ 0  (0.0%)            │
+│ └ Failed    │ 1  (9.1%)            │
+│ Steps       │ 276                  │
+│ Suites      │ 1                    │
+│ ├ Projects  │ 1                    │
+│ ├ Files     │ 1                    │
+│ ├ Describes │ 0                    │
+│ └ Shards    │ 0                    │
+│ Retries     │ 0                    │
+│ Errors      │ 1                    │
+│ Logs        │ 0                    │
+│ Attachments │ 26                   │
+│ Artifacts   │ 0                    │
+│ Playwright  │ v1.47.2              │
+│ Date        │ 3/5/2026, 9:57:01 AM │
+│ Duration    │ 43.9s                │
+└─────────────┴──────────────────────┘
+[MR] json: test-results/monocart-report/index.json
+[MR] view report: npx monocart show-report test-results/monocart-report/index.html
+Success: Imported from 'wp-db.sql'.
