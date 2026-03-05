@@ -1,0 +1,23 @@
+┌─────────────┬──────────────────────┐
+│ Tests       │ 11                   │
+│ ├ Passed    │ 10 (90.9%)           │
+│ ├ Flaky     │ 0  (0.0%)            │
+│ ├ Skipped   │ 1  (9.1%)            │
+│ └ Failed    │ 0  (0.0%)            │
+│ Steps       │ 264                  │
+│ Suites      │ 5                    │
+│ ├ Projects  │ 1                    │
+│ ├ Files     │ 5                    │
+│ ├ Describes │ 0                    │
+│ └ Shards    │ 0                    │
+│ Retries     │ 0                    │
+│ Errors      │ 0                    │
+│ Logs        │ 50                   │
+│ Attachments │ 10                   │
+│ Artifacts   │ 0                    │
+│ Playwright  │ v1.47.2              │
+│ Date        │ 3/5/2026, 9:55:54 AM │
+│ Duration    │ 1m 1s                │
+└─────────────┴──────────────────────┘
+[MR] json: test-results/monocart-report/index.json
+[MR] view report: npx monocart show-report test-results/monocart-report/index.html
